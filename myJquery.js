@@ -1,0 +1,1 @@
+document.write("<div> text is from myJquery.js <div>")
